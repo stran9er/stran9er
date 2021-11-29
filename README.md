@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @stran9er
-- 👀 I’m interested in application development, Python, Java, C#, and Jiu-Jitsu. 
-- 🌱 I’m currently learning Linux, AWS AppDev.  
+- 👋 Hello, my name is Tarric Ali and I am a software engineer.  
+-  After serving the world's best Navy for 20 years, I am now trying to establish myself in my field of study.
+- 👀 I’m interested in application development and familiar with C#, Java, and Python.  (Along with HMTL and CSS). 
+- 🌱 I never stop learning, currently working on Cyber Security.  Working with NMAP, BurpSuite, Metasploit, OWASP, and other Penetration Tetsing tools.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me stran9er@gmail.com
 
